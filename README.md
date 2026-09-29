@@ -25,7 +25,7 @@ Computer science with business system student
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ugeshpraavin_D?theme=dark&font=Baloo%20Chettan%202)
 
-[![Ugesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ugesh-Praavin&bg_color=0d0c0d&color=ffffff&line=ed1d51&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ugesh's github activity graph](https://github-statspro.vercel.app/api/stats/Ugesh-Praavin?theme=dark)
 <!---
 Ugesh-2909/Ugesh-2909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
