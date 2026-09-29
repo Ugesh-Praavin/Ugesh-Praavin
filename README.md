@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://ugeshpraavin.dev"><img src="https://img.shields.io/badge/Portfolio-ugeshpraavin.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ugesh-praavin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/allabout_ugesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ugeshh.hhhh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <img align="right" width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
