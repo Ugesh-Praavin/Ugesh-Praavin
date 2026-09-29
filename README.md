@@ -1,18 +1,26 @@
-## Hi there 👋 It's me Ugesh
+<h1 align="center">Hi there 👋 I'm Ugesh Praavin</h1>
 
-Computer science with business system student
+<p align="center">
+  <b>Computer Science & Business Systems student · Full-Stack Developer · Open Source Builder</b><br/>
+  Chennai, India · B.Tech CSBS @ RIT Chennai · Class of 2028
+</p>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+<p align="center">
+  <a href="https://ugeshpraavin.dev"><img src="https://img.shields.io/badge/Portfolio-ugeshpraavin.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ugesh-praavin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/allabout_ugesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-- 👀 I’m interested in New Technology
-- 🌱 I’m currently learning Full stack 
-- 💞️ I’m looking to collaborate on Airtificial Intelligence
-- 💫 Check out my personal [Portfolio](https://ugeshpraavin.vercel.app)
-- 📫 How to reach me
-  <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ugesh-praavin/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/allabout_ugesh/)
+<img align="right" width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
+- 🔭 Building open-source developer tools and full-stack products
+- 🧠 Exploring AI/ML, DSA and software engineering
+- 🚀 Interested in developer tooling, startups and shipping products with real users
+- 🎓 3rd-year CSBS student, CGPA 8.47
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
+
+<br clear="right"/>
 
 ### I code in 
 
@@ -25,7 +33,8 @@ Computer science with business system student
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ugeshpraavin_D?theme=dark&font=Baloo%20Chettan%202)
 
-[![Ugesh's github activity graph](https://github-statspro.vercel.app/api/stats/Ugesh-Praavin?theme=dark)
+![Ugesh's github activity graph](https://github-statspro.vercel.app/api/stats/Ugesh-Praavin?theme=dark)
+
 <!---
 Ugesh-2909/Ugesh-2909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
