@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋 I'm Ugesh Praavin</h1>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ugesh-praavin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F167075263%3Fu%3D54d0c9c341bbb5f39f8f608669007632183cf93a%26v%3D4" alt="ugesh-praavin hero visual" />
+</p>
 
 <p align="center">
   <b>Computer Science & Business Systems student · Full-Stack Developer · Open Source Builder</b><br/>
@@ -11,7 +13,7 @@
   <a href="https://www.instagram.com/ugeshh.hhhh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img align="right" width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+
 
 - 🔭 Building open-source developer tools and full-stack products
 - 🧠 Exploring AI/ML, DSA and software engineering
